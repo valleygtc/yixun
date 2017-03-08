@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1488810631 source:d:\codeproject\pyproject\yixun\my_yixunc\yixun\my_yixun.c
+	<time.h>
+	<string.h>
+	"md5lib.h"
+
+1488793412 d:\codeproject\pyproject\yixun\my_yixunc\yixun\md5lib.h
+	<stdio.h>
+	<time.h>
+
