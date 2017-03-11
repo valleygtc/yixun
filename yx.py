@@ -1,3 +1,6 @@
+# author:valleygtc 2017/3/11
+# copyright:随便copy
+
 import os
 import time
 import configparser
